@@ -1,6 +1,6 @@
 # Projeto Final - Modelos Preditivos Conexionistas
 
-### Nome dos alunos:
+### Nomes dos alunos:
 - Erike Simon
 - José Aparecido Silvano de Albuquerque
 
