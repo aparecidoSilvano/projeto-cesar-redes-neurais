@@ -6,7 +6,7 @@
 
 |**Tipo de Projeto**|**Modelo Selecionado**|**Linguagem**|
 |--|--|--|
-|Classificação de Imagens|ex.: YOLOv5|PyTorch ou Tensorflow|
+|Classificação de Imagens|YOLOv8|PyTorch|
 
 ## Performance
 
@@ -31,10 +31,8 @@ Exemplo de adição de imagem:
 
 ## Roboflow
 
-Nessa seção deve colocar o link para acessar o dataset no Roboflow
-
-Exemplo de link: [Nome do link](google.com)
+[Link para o Roboflow]( https://universe.roboflow.com/cesar-school-recife/new-animals-classification )
 
 ## HuggingFace
 
-Nessa seção você deve publicar o link para o HuggingFace
+[Link para o Huggingface](https://huggingface.co/spaces/silvanoalbuquerque/YOLO-V8_ANIMALS_CLASSIFICATION )
