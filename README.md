@@ -10,7 +10,8 @@
 
 ## Performance
 
-O modelo treinado possui performance de **??%**.
+O modelo treinado possui performance de **81.82%**.
+![image](https://github.com/aparecidoSilvano/projeto-cesar-redes-neurais/assets/7593828/6a869e3e-d237-419c-adaa-2f70e9f0e48b)
 
 ### Output do bloco de treinamento
 
@@ -3702,9 +3703,19 @@ Results saved to runs/classify/train3
 
 Nessa seção você deve colocar qualquer evidência do treinamento, como por exemplo gráficos de perda, performance, matriz de confusão etc.
 
+- Matrix de confusão:
 ![confusion_matrix](https://github.com/aparecidoSilvano/projeto-cesar-redes-neurais/assets/7593828/53af44cb-189b-47e0-a202-1acd36fc2e8c)
 
+- Resultados:
+
+![download](https://github.com/aparecidoSilvano/projeto-cesar-redes-neurais/assets/7593828/c2d88726-2cf9-4c23-8e75-8055ff6feb2d)
+
+![download (1)](https://github.com/aparecidoSilvano/projeto-cesar-redes-neurais/assets/7593828/94b4b66a-2a7e-49b4-899a-0eaefa7fa796)
+
 ![results](https://github.com/aparecidoSilvano/projeto-cesar-redes-neurais/assets/7593828/7ab3344a-c6a7-4313-a3d2-79816ba617f8)
+
+## Google Colab
+[Link para o colab](https://colab.research.google.com/drive/16jPZSnBCyxJLdHlKRHi4d_IgVzmhVsbC?usp=sharing)
 
 ## Roboflow
 
