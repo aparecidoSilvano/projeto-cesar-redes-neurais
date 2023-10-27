@@ -3715,7 +3715,7 @@ Nessa seção você deve colocar qualquer evidência do treinamento, como por ex
 ![results](https://github.com/aparecidoSilvano/projeto-cesar-redes-neurais/assets/7593828/7ab3344a-c6a7-4313-a3d2-79816ba617f8)
 
 ## Google Colab
-[Link para o colab]([https://colab.research.google.com/drive/16jPZSnBCyxJLdHlKRHi4d_IgVzmhVsbC?usp=sharing](https://colab.research.google.com/drive/144BjnEWdPnjpnEUxlYqrx16Wk2Y6sp_k?usp=sharing))
+[Link para o colab](https://colab.research.google.com/drive/144BjnEWdPnjpnEUxlYqrx16Wk2Y6sp_k?usp=sharing)
 
 ## Roboflow
 
